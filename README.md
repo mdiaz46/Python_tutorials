@@ -1,3 +1,1 @@
-# Python_tutorials
-# if statements
-# for loops
+# Python_tutorials on booleans, tuples, dictionaries and control flows. 
